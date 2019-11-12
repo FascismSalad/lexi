@@ -1,0 +1,2 @@
+# lexi
+Initial Discord Bot
